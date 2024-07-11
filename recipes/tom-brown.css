@@ -7,3 +7,7 @@ img {
     width: 200px;
     height: auto;
 }
+
+animation {
+    rainbow 10s linear infinite;
+}
