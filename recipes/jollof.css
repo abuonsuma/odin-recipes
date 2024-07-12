@@ -1,3 +1,13 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 body {
     color: white;
     background-color: rgb(241, 146, 112);
